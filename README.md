@@ -76,8 +76,7 @@ An interactive dashboard was developed to visualize:
 
 
 ## 🖼️ Dashboard Preview
-<img width="1429" height="804" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/a4da2a71-435f-432c-8df3-de94d0b6c216" />
-
+<img width="1437" height="804" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/56bcab40-e91f-446d-9175-631181f6678d" />
 
 ## ✅ Conclusion
 This project demonstrates how SQL, Machine Learning, and Power BI can be combined to solve real-world business problems. The analysis helps businesses understand customer behavior, predict churn risks, and improve business decision-making through data-driven insights.
